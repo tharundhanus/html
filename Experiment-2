@@ -1,0 +1,43 @@
+Experiment 2: Creating a Web Page with Image and Table
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Experiment 2 - Image and Table</title>
+</head>
+<body>
+
+<h1 align="center">Experiment 2</h1>
+<h2 align="center">Creating a Web Page Using Images and Tables</h2>
+<hr>
+
+<h3>Aim:</h3>
+<p>To create a web page that includes images and tables using HTML.</p>
+
+<h3>Image Section:</h3>
+<p>Below is a sample image used in the web page.</p>
+<img src="https://via.placeholder.com/300" alt="Sample Image">
+
+<h3>Student Details Table:</h3>
+<table border="1" cellpadding="10">
+    <tr>
+        <th>Name</th>
+        <th>Department</th>
+        <th>Year</th>
+    </tr>
+    <tr>
+        <td>Alice</td>
+        <td>Computer Science</td>
+        <td>2nd</td>
+    </tr>
+    <tr>
+        <td>Bob</td>
+        <td>Electronics</td>
+        <td>3rd</td>
+    </tr>
+</table>
+
+<h3>Result:</h3>
+<p>The web page with image and table was successfully designed.</p>
+
+</body>
+</html>
