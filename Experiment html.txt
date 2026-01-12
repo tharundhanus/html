@@ -1,0 +1,185 @@
+Experiment 1: Creating a Basic Web Page Using HTML
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Experiment 1 - Basic Web Page</title>
+</head>
+<body>
+
+<h1 align="center">Experiment 1</h1>
+<h2 align="center">Creating a Basic Web Page Using HTML</h2>
+<hr>
+
+<h3>Aim:</h3>
+<p>To design a basic web page using HTML elements.</p>
+
+<h3>Description:</h3>
+<p>
+HTML stands for HyperText Markup Language. It is used to create web pages.
+HTML uses tags to structure content such as text, images, links, and lists.
+</p>
+
+<h3>Features of HTML:</h3>
+<ul>
+    <li>Easy to learn</li>
+    <li>Platform independent</li>
+    <li>Used to create web pages</li>
+</ul>
+
+<h3>Sample Link:</h3>
+<a href="https://www.example.com">Click here to visit Example</a>
+
+<h3>Result:</h3>
+<p>The basic web page was successfully created using HTML.</p>
+
+</body>
+</html>
+
+
+
+
+
+
+Experiment 2: Creating a Web Page with Image and Table
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Experiment 2 - Image and Table</title>
+</head>
+<body>
+
+<h1 align="center">Experiment 2</h1>
+<h2 align="center">Creating a Web Page Using Images and Tables</h2>
+<hr>
+
+<h3>Aim:</h3>
+<p>To create a web page that includes images and tables using HTML.</p>
+
+<h3>Image Section:</h3>
+<p>Below is a sample image used in the web page.</p>
+<img src="https://via.placeholder.com/300" alt="Sample Image">
+
+<h3>Student Details Table:</h3>
+<table border="1" cellpadding="10">
+    <tr>
+        <th>Name</th>
+        <th>Department</th>
+        <th>Year</th>
+    </tr>
+    <tr>
+        <td>Alice</td>
+        <td>Computer Science</td>
+        <td>2nd</td>
+    </tr>
+    <tr>
+        <td>Bob</td>
+        <td>Electronics</td>
+        <td>3rd</td>
+    </tr>
+</table>
+
+<h3>Result:</h3>
+<p>The web page with image and table was successfully designed.</p>
+
+</body>
+</html>
+
+Experiment 3: Creating a Web Page Using HTML Forms
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Experiment 3 - HTML Forms</title>
+</head>
+<body>
+
+<h1 align="center">Experiment 3</h1>
+<h2 align="center">Creating a Web Page Using HTML Forms</h2>
+<hr>
+
+<h3>Aim:</h3>
+<p>To design a web page using HTML form elements.</p>
+
+<h3>Registration Form:</h3>
+
+<form>
+    <label>Full Name:</label><br>
+    <input type="text"><br><br>
+
+    <label>Email Address:</label><br>
+    <input type="email"><br><br>
+
+    <label>Password:</label><br>
+    <input type="password"><br><br>
+
+    <label>Gender:</label><br>
+    <input type="radio" name="gender"> Male
+    <input type="radio" name="gender"> Female<br><br>
+
+    <label>Skills:</label><br>
+    <input type="checkbox"> HTML
+    <input type="checkbox"> CSS
+    <input type="checkbox"> JavaScript<br><br>
+
+    <label>Comments:</label><br>
+    <textarea rows="4" cols="40"></textarea><br><br>
+
+    <input type="submit" value="Register">
+    <input type="reset" value="Clear">
+</form>
+
+<h3>Result:</h3>
+<p>The HTML form page was created successfully.</p>
+
+</body>
+</html>
+
+EX.04: DESIGNING A RESPONSIVE LAYOUT FOR A SOCIETAL APPLICATION
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bootstrap Example</title>
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">HOD Desk</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">EVENTS</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class="container mt-3">
+    <div class="jumbotron">
+      <h1>Welcome to Dr MGR Educational and Research Institute</h1>
+    </div>
+    <div class="row">
+      <div class="col-sm-3">CSE</div>
+      <div class="col-sm-3">CSE-AI</div>
+      <div class="col-sm-3">CSE-DS&AI</div>
+      <div class="col-sm-3">CSE-CFIS</div>
+    </div>
+  </div>
+</body>
+</html>
+
+
