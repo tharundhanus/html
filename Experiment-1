@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Experiment 1 - Basic Web Page</title>
+</head>
+<body>
+
+<h1 align="center">Experiment 1</h1>
+<h2 align="center">Creating a Basic Web Page Using HTML</h2>
+<hr>
+
+<h3>Aim:</h3>
+<p>To design a basic web page using HTML elements.</p>
+
+<h3>Description:</h3>
+<p>
+HTML stands for HyperText Markup Language. It is used to create web pages.
+HTML uses tags to structure content such as text, images, links, and lists.
+</p>
+
+<h3>Features of HTML:</h3>
+<ul>
+    <li>Easy to learn</li>
+    <li>Platform independent</li>
+    <li>Used to create web pages</li>
+</ul>
+
+<h3>Sample Link:</h3>
+<a href="https://www.example.com">Click here to visit Example</a>
+
+<h3>Result:</h3>
+<p>The basic web page was successfully created using HTML.</p>
+
+</body>
+</html>
+
